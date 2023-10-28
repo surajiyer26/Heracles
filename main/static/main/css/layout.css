@@ -1,0 +1,16 @@
+body {
+  height: 100%;
+  background-image: linear-gradient(to bottom left, rgba(80,108,153,255) 40%, rgba(189,45,27,255) 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white !important;
+}
+
+.abril-fatface {
+  font-family: 'Abril Fatface', serif;
+}
+
+.noto-sans {
+  font-family: 'Noto Sans', sans-serif;
+}
